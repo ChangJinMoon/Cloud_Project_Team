@@ -30,7 +30,7 @@ ___
 <br/>
 
 + ### Client
-    - [정재현]() 구현 담당
+    - [정재현](https://github.com/wjstjdgh321) 구현 담당
 
 
 <br/>
