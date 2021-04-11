@@ -41,4 +41,4 @@ ___
 
 ## Detail(ppt)
 ___
-<iframe src="https://skunivackr-my.sharepoint.com/personal/jin1004boy_skuniv_ac_kr/_layouts/15/Doc.aspx?sourcedoc={f4fd6785-5e27-4e88-a018-43ef4883ffa7}&amp;action=embedview&amp;wdAr=1.7777777777777777&amp;wdEaa=0" width="610px" height="367px" frameborder="0">포함된 <a target="_blank" href="https://office.com">Microsoft Office</a> 프레젠테이션, 제공: <a target="_blank" href="https://office.com/webapps">Office</a></iframe>
+<iframe src="https://skunivackr-my.sharepoint.com/personal/jin1004boy_skuniv_ac_kr/_layouts/15/Doc.aspx?sourcedoc={f4fd6785-5e27-4e88-a018-43ef4883ffa7}&amp;action=embedview&amp;wdAr=1.7777777777777777&amp;wdEaa=0" width="610px" height="367px" frameborder="1">포함된 <a target="_blank" href="https://office.com">Microsoft Office</a> 프레젠테이션, 제공: <a target="_blank" href="https://office.com/webapps">Office</a></iframe>
