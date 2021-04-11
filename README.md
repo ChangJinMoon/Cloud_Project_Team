@@ -26,7 +26,7 @@ ___
     - _Naver Cloud Platform_ 의 pass 서비스를 이용하여 구현
     - _Serverless_ 형식을 이용하여 Client 요청 처리, code는 Maven으로 빌드하여 _jar_ 형식으로 Upload
     - 기능으로는 회원 db 관리, 사용자 위치데이터 저장 및 처리 등 구현
-    - 세부 설명 -> [_Server Directory_](https://github.com/ChangJinMoon/Cloud_Project_Team/Server) 참조
+    - 세부 설명 -> [_Server Directory_](https://github.com/ChangJinMoon/Cloud_Project_Team/tree/master/Server) 참조
 <br/>
 
 + ### Client
